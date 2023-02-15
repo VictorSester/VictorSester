@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-- 🌱 I’m currently learning Solidity
-
-- 👨‍💻 All of my projects are available at [victorsester.com](victorsester.com)
+- 🌱 I’m currently learning Solidity and Rust
 
 - 📫 How to reach me **victor.sester@epitech.eu**
 
