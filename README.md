@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Victor Sester</h1>
 
-🎓 Junior AI Officer @ Council of Europe  
+<!--🎓 Junior AI Officer @ Council of Europe-->  
 🧠 Passionate about applied AI, smart automation and innovation  
 🛠️ Hybrid profile: Fullstack & AI engineer with strong product and user understanding  
 🎯 I solve real-world problems by building intelligent, scalable, and maintainable AI-powered apps — from ideation to deployment
